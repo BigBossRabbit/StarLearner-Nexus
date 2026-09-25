@@ -1,3 +1,5 @@
+![StarLearner-Nexus Banner](assets/StarLearner-Nexus-banner.svg)
+
 # StarLearner-Nexus 🌟
 
 ## Transform GitHub Stars into AI Skills
